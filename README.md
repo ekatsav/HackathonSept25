@@ -1,3 +1,7 @@
+EDIT: This project netted us the winning entry! Thank you MadLab :D
+
+-----
+
 Hi there! This is our two-day project as tasked by the Games for Losers Hackathon, hosted by Manchester Digital Laboratory (MadLab), completed Sept 2025.
 
 Our aim is to provide a fair proof of concept and documentation, as well as enough interactable material to constitute a game demo - please enjoy!
